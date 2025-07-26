@@ -1,7 +1,7 @@
 # Hi there, I'm Ayush! 👋
 
 - 👀 I’m working in Artificial Intelligence and Machine Learning.  
-- 🌱 I’m currently learning Deep Learning 
+- 🌱 I’m currently learning Deep Learning and LLM API deployment. 
 - 📫 You can reach me @ ayush9251@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Without interest, everthing fades quickly. 
